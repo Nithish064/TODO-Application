@@ -1,0 +1,26 @@
+
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url(/src/assets/b1.jpg);
+  background-size: cover;
+}
+
+
+.h2{
+  color: green;
+  font-family: var(--font-josefin-sans);
+}
+
+
+.b{
+  color: green; 
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+body{
+  background-color:snow;
+}
